@@ -1,0 +1,6 @@
+produto_id,produto,categoria,preco
+101,Notebook,Eletrônicos,3500.0
+102,Mouse,Periféricos,80.0
+103,Teclado,Periféricos,150.0
+104,Monitor,Eletrônicos,1200.0
+105,Headset,Periféricos,250.0

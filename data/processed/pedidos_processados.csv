@@ -1,0 +1,9 @@
+pedido_id,cliente_id,produto_id,quantidade,data_pedido,nome,idade,estado,produto,categoria,preco,faturamento
+1,1,101,1,2026-10-01,João,25,SP,Notebook,Eletrônicos,3500.0,3500.0
+2,2,102,2,2026-10-01,Maria,32,RJ,Mouse,Periféricos,80.0,160.0
+3,3,103,1,2026-10-02,Carlos,41,MG,Teclado,Periféricos,150.0,150.0
+4,1,104,1,2026-10-03,João,25,SP,Monitor,Eletrônicos,1200.0,1200.0
+5,4,105,2,2026-10-03,Ana,28,SP,Headset,Periféricos,250.0,500.0
+6,5,101,1,2026-10-04,Pedro,35,PR,Notebook,Eletrônicos,3500.0,3500.0
+7,2,104,1,2026-10-05,Maria,32,RJ,Monitor,Eletrônicos,1200.0,1200.0
+8,3,102,3,2026-10-05,Carlos,41,MG,Mouse,Periféricos,80.0,240.0
